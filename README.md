@@ -5,5 +5,5 @@
 - [ ] Parse Clippings.txt
 - [ ] Add the calls to the notion api 
 ## Long Term TODO 
-- [ ] Add scraper functionality to enable OTA highlight syncing
+- [ ] Make a browser extension to scrape kindle highlights from the amazon cloud and sync to notion database
 - [ ] Make a GUI for Windows, Linux, and Mac
