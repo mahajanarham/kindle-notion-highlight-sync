@@ -1,0 +1,15 @@
+C:\Users\mahaj\kindle-notion-highlight-sync\bin\Debug\net7.0\kindle-notion-highlight-sync.exe
+C:\Users\mahaj\kindle-notion-highlight-sync\bin\Debug\net7.0\kindle-notion-highlight-sync.deps.json
+C:\Users\mahaj\kindle-notion-highlight-sync\bin\Debug\net7.0\kindle-notion-highlight-sync.runtimeconfig.json
+C:\Users\mahaj\kindle-notion-highlight-sync\bin\Debug\net7.0\kindle-notion-highlight-sync.dll
+C:\Users\mahaj\kindle-notion-highlight-sync\bin\Debug\net7.0\kindle-notion-highlight-sync.pdb
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.csproj.AssemblyReference.cache
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.AssemblyInfoInputs.cache
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.AssemblyInfo.cs
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.csproj.CoreCompileInputs.cache
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.dll
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\refint\kindle-notion-highlight-sync.dll
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.pdb
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\kindle-notion-highlight-sync.genruntimeconfig.cache
+C:\Users\mahaj\kindle-notion-highlight-sync\obj\Debug\net7.0\ref\kindle-notion-highlight-sync.dll
